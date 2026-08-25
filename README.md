@@ -6,7 +6,7 @@ Full-Stack Developer • Web3 Builder • AI & SaaS Enthusiast
 
 [![Website](https://img.shields.io/badge/yunsoft.com-1C1C1C?style=flat&logo=google-chrome&logoColor=white)](https://www.yunsoft.com)
 [![Lumixgen](https://img.shields.io/badge/lumixgen.com-5B1FE3?style=flat&logo=sparkfun&logoColor=white)](https://www.lumixgen.com)
-[![Email](https://img.shields.io/badge/Contact-Email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:info@uncw3b.com)
+[![Email](https://img.shields.io/badge/Contact-Email-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:info@yunsoft.com)
 [![Follow on X](https://img.shields.io/badge/Follow-@-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/raichubuilds)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
@@ -56,7 +56,7 @@ Extras I often use:
 - AI-driven content, RAG pipelines, and automation workflows
 - SaaS dashboards, admin tools, and realtime data apps
 
-👉 Ping me via [uncw3b.com](https://www.uncw3b.com) or [lumixgen.com](https://www.lumixgen.com).
+👉 Ping me via [yunsoft.com](https://www.yunsoft.com) or [lumixgen.com](https://www.lumixgen.com).
 
 ---
 
@@ -68,7 +68,7 @@ Extras I often use:
 ---
 
 ## 🌐 Connect
-- Website: [uncw3b.com](https://www.uncw3b.com)
+- Website: [yunsoft.com](https://www.yunsoft.com)
 - Lumixgen: [lumixgen.com](https://www.lumixgen.com)
 - LinkedIn: [Linked-in](https://www.linkedin.com/company/109119134/admin/page-posts/published/)
 - X (Twitter): [Twitter](https://x.com/raichubuilds)
